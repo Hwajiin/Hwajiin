@@ -8,10 +8,12 @@
 </a>
 
 <!-- About me -->
+---
 ### Hi there! 😘
 I'm currently learning various *frontend* skills.   
 In particular, I'm interested in the *interactive* web.🕶
 
+---
 
 <!-- Skills -->
 ### Skills
@@ -27,3 +29,6 @@ In particular, I'm interested in the *interactive* web.🕶
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 </div>
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwajiin&show_icons=true&theme=outrun)
