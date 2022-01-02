@@ -3,7 +3,7 @@
 <a href="mailto:borderline0px@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/borderline0px@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="#" target="_blank">
+<a href="https://www.notion.so/GO-3761c24a3e824deeb77b05f7567de108" target="_blank">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
@@ -11,7 +11,7 @@
 ---
 ### Hi there! 😘
 I'm currently learning various *frontend* skills.   
-In particular, I'm interested in the *interactive* web.🕶
+In particular, I'm interested in the web optimization.🕶
 
 ---
 
